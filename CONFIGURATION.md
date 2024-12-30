@@ -28,7 +28,7 @@ StartThisProgramAsAdministrator=0
 - 1 = YES. A console window will be shown on program start.
 - 0 = NO. The program will start invisibly and no extra window will pop-up.
 ```
-ShowConsoleWindowOnStartup=0
+ShowConsoleWindowOnStartup=1
 ```
 
 #### Should the program print the debug information?
